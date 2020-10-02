@@ -1,5 +1,5 @@
-- [一、Java语言概述](#--java----)
-- [二、Java语言的三种技术架构](#--java---------)
+- [一、Java语言概述](#Java语言概述)
+- [二、Java语言的三种技术架构](#Java语言的三种技术架构)
   * [J2SE(Java 2 Platform Standard Edition)标准版](#j2se-java-2-platform-standard-edition----)
   * [J2EE(Java 2 Platform Enterprise Edition)企业版](#j2ee-java-2-platform-enterprise-edition----)
   * [J2ME(Java 2 Platform Micro Edition)小型版](#j2me-java-2-platform-micro-edition----)
