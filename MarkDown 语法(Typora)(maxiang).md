@@ -20,9 +20,10 @@ QQ截图低清，懒得改了，望海涵。
 - [十三、表格](#表格)
 - [十四、代码区域](#代码区域)
 - [十五、任务列表](#任务列表)
-- [十六、表情](#表情)
-- [十七、流程图](#流程图)
-- [十八、maxinag](#maxinag)
+- [十六、注释](#注释)
+- [十七、表情](#表情)
+- [十八、流程图](#流程图)
+- [十九、maxinag](#maxinag)
 
 # 标题的使用
 ```markdown
@@ -164,6 +165,18 @@ ctrl+K
 - [x] b
 ```
 ![](https://imgconvert.csdnimg.cn/aHR0cHM6Ly91cGxvYWQtaW1hZ2VzLmppYW5zaHUuaW8vdXBsb2FkX2ltYWdlcy8yMjkzOTM0NC02ZDI0YmRiMmMwY2E1NDYyLnBuZw?x-oss-process=image/format,png)
+
+
+# 注释
+```
+[//]: # (注释内容 这个通用性最强)
+[//]: <> (注释内容)
+[^_^]: # (注释内容 这个萌)
+```
+
+[^_^]: # (你们看不到这个的)
+![image](https://user-images.githubusercontent.com/57292126/130314656-67da20ab-b3c5-4303-9458-8f8c6bcd7c14.png)
+
 
 # 表情
 ```markdown
